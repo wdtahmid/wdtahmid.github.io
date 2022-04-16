@@ -1,6 +1,26 @@
 [
     {
         "id": 1,
-        "serviceName": "Tutiony"
+        "serviceName": "Colorful Berlin",
+        "desc": "AdventureBackpackingBudget Travels",
+        "price": "2000",
+        "days": "5",
+        "img": ""
+    },
+    {
+        "id": 2,
+        "serviceName": "A week in Venice",
+        "desc": "BackpackingBudget TravelsWeekend",
+        "price": "1500",
+        "days": "3",
+        "img": ""
+    },
+    {
+        "id": 3,
+        "serviceName": "Sunny Barcelona",
+        "desc": "Backpacking Festivals Honeymoon and Romancing",
+        "price": "2200",
+        "days": "14",
+        "img": ""
     }
 ]
